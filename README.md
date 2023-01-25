@@ -13,7 +13,7 @@ Executing the code in truffle
    
  ![image](https://user-images.githubusercontent.com/12578459/214450374-32a6c102-4d62-4153-b89b-ce18e315a4ff.png)
    
-3) Deploy the contract to the MATIC daily Mumbai network
+3) Deploy the contract to the MATIC daily Mumbai network (refer to the truffle.js for network settings)
         'truffle deploy --reset --network matic'
 
 4) Connect the truffle console to the MATIC network
