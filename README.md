@@ -1,6 +1,7 @@
 This implementation helps build a Smart contract for supply chain. The objective is to build the stubs required to switch the supply chain implementations without impacting the end user.
 
 SupplyChainContractProxy - Proxy contract is to store the references to the actual Supply chain implementation(ex SupplyChainUpd1.sol)
+
 SupplyChainUpd1 - Actual supply chain implementation contract
 
 Executing the code in truffle
