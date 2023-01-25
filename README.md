@@ -7,16 +7,16 @@ Executing the code in truffle
 
 1) Download the .sol code into the contracts folder
 2) Compile the contracts by executing
-        truffle compile
+        'truffle compile'
    from the command prompt
    
  ![image](https://user-images.githubusercontent.com/12578459/214450374-32a6c102-4d62-4153-b89b-ce18e315a4ff.png)
    
 3) Deploy the contract to the MATIC daily Mumbai network
-        truffle deploy --reset --network matic
+        'truffle deploy --reset --network matic'
 
 4) Connect the truffle console to the MATIC network
-        truffle console --network matic
+        'truffle console --network matic'
 
 ![image](https://user-images.githubusercontent.com/12578459/214450454-deae7b98-e0df-4a48-965a-3345f521d5db.png)
         
