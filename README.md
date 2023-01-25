@@ -22,5 +22,7 @@ Executing the code in truffle
         
 5) Interact with the contract
 
+![image](https://user-images.githubusercontent.com/12578459/214452826-aa9f68f7-d7b5-4202-9696-e615e32d7337.png)
+
 ![image](https://user-images.githubusercontent.com/12578459/214452161-acea8b7d-aabe-49de-baa0-877fa78a729f.png)
 
